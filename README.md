@@ -73,7 +73,7 @@ green-trace/
 
 ## 🏗 System Architecture
 
-```mermaid
+```
 graph TB
     subgraph UI ["UI Layer (React)"]
         A[Navbar] --> B[ProductGallery]
@@ -283,5 +283,5 @@ MIT — free to use, modify, and distribute. Attribution appreciated.
 
 <div align="center">
   <strong>Built with 🌿 for a greener internet</strong><br/>
-  <sub>Green-Trace · Final Year Project · 2025</sub>
+  <sub>Green-Trace · Project · 2026</sub>
 </div>
